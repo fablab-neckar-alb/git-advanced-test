@@ -93,6 +93,20 @@ user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git merge tatzelbranch
 Merge made by the 'recursive' strategy.
  Notizen | 44 ++++++++++++++++++++++++++++++++++++++++++++
  1 file changed, 44 insertions(+)
+
+user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git pull
+remote: Counting objects: 8, done.
+remote: Compressing objects: 100% (7/7), done.
+remote: Total 8 (delta 1), reused 8 (delta 1), pack-reused 0
+Unpacking objects: 100% (8/8), done.
+From github.com:tatzelbrumm/git-advanced-test
+   1593d6f..b21e163  master     -> fablab-github/master
+Updating 1593d6f..b21e163
+Fast-forward
+ wikipage.md | 65 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 65 insertions(+)
+ create mode 100644 wikipage.md
+
 user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git branch
 * master
   tatzelbranch
