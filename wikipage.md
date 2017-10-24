@@ -1,6 +1,6 @@
-====== Arduinoo ======
+====== Arduino ======
 
-Unter dem Thema Arduino werden im Wiki alle Ressourcen, Projektbeispiele, Initiativen, etc. gesammelt, die sich mit dem Arduino-Prozessor und den damit möglichen Basteleien und Geräten beschäftigen.
+Unter dem Thema Arduino werden im Wiki alle Ressourcen, Projektbeispiele, Initiativen, etc. gesammelt, die mit dem Arduino-Prozessor und den damit möglichen Basteleien und Geräten sich beschäftigen.
 
 ==== Arduino Abend ====
 
@@ -22,7 +22,7 @@ Da die Bestellung billiger Teile in der Regel in China erfolgt, dauert die Liefe
 
 Da es beim Arduino auch teuere Teile gibt, hat die Box eine kleine eigene Buchhaltung.
 
-- //Entnahme// Werden Teile entnommen, die nicht zurück gelegt werden, so wird erst das Guthaben im Kassenbuch gegengerechnet (s.u.) und, falls dort kein Guthaben ist, bar in die Kasse bezahlt. In letzterem Fall mit einem kleinen 'Schwundaufschlag' von 50 Cent. - //Kassenbuch// In der Box ist auch ein Kassenbuch. Dort kann jeder für sich eine Guthabenseite anlegen, wenn er Teile zur Box hinzufügt. Einfach ein neues Blatt anfangen und sich an den bestehenden Beispielen orientieren.
+- //Entnahme// Werden Teile entnommen, die nicht zurück gelegt werden, so wird erst das Guthaben im Kassenbuch gegengerechnet (s.u.) und, falls dort kein Guthaben ist, bar in die Kasse bezahlt. In letzterem Fall mit einem kleinen 'Schwundaufschlag' von 50 Cent. - //Kassenbuch// In der Box ist auch ein Kassenbuch. Dort kann jeder eine Guthabenseite anlegen für sich, wenn er Teile zur Box hinzufügt. Einfach ein neues Blatt anfangen und an den bestehenden Beispielen sich orientieren.
 
 - //Teile ergänzen// Werden Teile ergänzt, zu denen schon welche in der Box exisitieren, so werden diese in die entsprechende Tüte getan und dort auf dem Buchhaltungslaufzettel vermerkt. Für die Teile wird dann im Kassenbuch eine Gutschrift bei demjenigen eingetragen, der die Teile beschafft hat. - //neue Komponenten// Werden neue Teile ergänzt, die es in der Box noch garnicht gibt, so wird eine neue Tüte mit Laufzettel angelegt. Alles andere analog zu oben. Bitte keine Teile in die Box tun, die nicht wirklich Arduino-bezogen sind, nie mehr benötigt werden, Schrott sind oder einfache Elektronik-Teile sind. Letztere gehören zu den Elektronik-Sortimenten des Fablab. Neue Komponenten bitte auch in der [[:projekte:arduino:komponenten|Liste der Arduino-Komponenten]] hier im Wiki eintragen.
 
@@ -47,7 +47,7 @@ Wenn Ihr Eure eigenen Projekte fertig gestellt habt oder schon hinreichend gut b
 
 **Fazit:**  Bestellt nur Bestellungen bis zu einem Gesamtwert inklusive Versandkosten von 20 Euro und schaut, dass Ihr keine zwei Lieferungen am gleichen Tag bekommt. Dann seid Ihr immer unter der Freigrenze. Erhaltet Ihr an einem Tag Waren im Wert von über 22 Euro, so müßt Ihr zum Zollamt gehen und die Sendung nachverzollen und die Umsatzsteuer (auch 19% auf den Gesamtwert inklusive Zoll und Versandkosten) bezahlen.
 
-  * Bei Bestellungen aus China gibt es noch eine andere Falle, die für aufrichtige Bürger zu bedenken ist: Deutsche und europäische Unternehmen müssen Ihre Waren aufwendigen Qualitätsprüfungen und Zertifizierungen unterziehen. Diese kosten teilweise viel Geld. Chinesische Unternehmen sparen sich solche Prüfungen in der EU gern und können daher viel billiger liefern. Mit den entsprechenden Risiken für die Kunden. Amazon und Co. drücken sich um diese Verpflichtungen, weil sie sagen, sie seien nur Vermittler des Geschäfts (Amazon Marketplace) und nicht der eigentliche Händler, der zur Qualitätssicherung und Zertifizierung verpflichtet wäre.
+  * Bei Bestellungen aus China gibt es noch eine andere Falle, die für aufrichtige Bürger zu bedenken ist: Deutsche und europäische Unternehmen müssen Ihre Waren aufwendigen Qualitätsprüfungen und Zertifizierungen unterziehen. Diese kosten teilweise viel Geld. Chinesische Unternehmen sparen solche Prüfungen in der EU gern sich und können daher viel billiger liefern. Mit den entsprechenden Risiken für die Kunden. Amazon und Co. drücken um diese Verpflichtungen sich, weil sie sagen, sie seien nur Vermittler des Geschäfts (Amazon Marketplace) und nicht der eigentliche Händler, der zur Qualitätssicherung und Zertifizierung verpflichtet wäre.
 
 ==== Sonstige Internet-Links ====
 

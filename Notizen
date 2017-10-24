@@ -1,0 +1,127 @@
+Git für Angefangenen und Fortgesrittenen
+
+git branch neuer-branch
+git checkout neuer-branch 
+beides zusammen
+git checkout -b neuer-branch
+
+Ein Zweig mit was anderem, versuchsweise
+
+commit everything modified already in version control
+git commit -a
+
+git merge neuer-branch
+
+manueller merge
+
+git cherry-pick 
+
+git flow
+ist im wesentlichen eine best practice, wie man branches anlegt und merges verwaltet
+
+Es gibt git-flow plugins
+
+github : fork from FabLabNeckar-Alb github : git@github.com:tatzelbrumm/git-advanced-test.git
+
+user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git remote add git@github.com:tatzelbrumm/git-advanced-test.git
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=<push|fetch>]
+                          set up remote as a mirror to push to or fetch from
+
+user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git remote add -f -t master fablab-github git@github.com:tatzelbrumm/git-advanced-test.git
+Updating fablab-github
+warning: no common commits
+remote: Counting objects: 15, done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 15 (delta 1), reused 15 (delta 1), pack-reused 0
+Unpacking objects: 100% (15/15), done.
+From github.com:tatzelbrumm/git-advanced-test
+ * [new branch]      master     -> fablab-github/master
+
+user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git merge fablab-github/master
+Merge made by the 'recursive' strategy.
+ bla | 5 +++++
+ 1 file changed, 5 insertions(+)
+ create mode 100644 bla
+
+user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git push master
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream master master
+
+user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git push --set-upstream fablab-github master
+Counting objects: 26, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (18/18), done.
+Writing objects: 100% (26/26), 3.07 KiB | 0 bytes/s, done.
+Total 26 (delta 9), reused 0 (delta 0)
+remote: Resolving deltas: 100% (9/9), done.
+To git@github.com:tatzelbrumm/git-advanced-test.git
+   162b03d..a8572d5  master -> master
+Branch master set up to track remote branch master from fablab-github.
+
+user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git merge tatzelbranch 
+Merge made by the 'recursive' strategy.
+ Notizen | 44 ++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 44 insertions(+)
+
+user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git pull
+remote: Counting objects: 8, done.
+remote: Compressing objects: 100% (7/7), done.
+remote: Total 8 (delta 1), reused 8 (delta 1), pack-reused 0
+Unpacking objects: 100% (8/8), done.
+From github.com:tatzelbrumm/git-advanced-test
+   1593d6f..b21e163  master     -> fablab-github/master
+Updating 1593d6f..b21e163
+Fast-forward
+ wikipage.md | 65 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 65 insertions(+)
+ create mode 100644 wikipage.md
+
+user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git branch
+* master
+  tatzelbranch
+  zweig
+user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git push
+Counting objects: 8, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (8/8), 2.18 KiB | 0 bytes/s, done.
+Total 8 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), done.
+To git@github.com:tatzelbrumm/git-advanced-test.git
+   a8572d5..df7aafd  master -> master
+
+
+git stash
+git rebase
+
