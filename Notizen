@@ -8,6 +8,10 @@ git checkout -b neuer-branch
 commit everything modified already in version control
 git commit -a
 
+git merge neuer-branch
+
+manueller merge
+
 git stash
 git rebase
 git flow
