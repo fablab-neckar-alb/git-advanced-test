@@ -14,6 +14,14 @@ git merge neuer-branch
 
 manueller merge
 
+git cherry-pick 
+
+git flow
+ist im wesentlichen eine best practice, wie man branches anlegt und merges verwaltet
+
+Es gibt git-flow plugins
+
+
 git stash
 git rebase
-git flow
+
