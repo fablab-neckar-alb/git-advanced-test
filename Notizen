@@ -5,6 +5,8 @@ git checkout neuer-branch
 beides zusammen
 git checkout -b neuer-branch
 
+Ein Zweig mit was anderem, versuchsweise
+
 commit everything modified already in version control
 git commit -a
 
