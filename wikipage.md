@@ -1,4 +1,4 @@
-====== Arduino ======
+====== Arduinoo ======
 
 Unter dem Thema Arduino werden im Wiki alle Ressourcen, Projektbeispiele, Initiativen, etc. gesammelt, die sich mit dem Arduino-Prozessor und den damit möglichen Basteleien und Geräten beschäftigen.
 
