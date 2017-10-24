@@ -49,17 +49,17 @@ Wenn Ihr Eure eigenen Projekte fertig gestellt habt oder schon hinreichend gut b
 
   * Bei Bestellungen aus China gibt es noch eine andere Falle, die für aufrichtige Bürger zu bedenken ist: Deutsche und europäische Unternehmen müssen Ihre Waren aufwendigen Qualitätsprüfungen und Zertifizierungen unterziehen. Diese kosten teilweise viel Geld. Chinesische Unternehmen sparen sich solche Prüfungen in der EU gern und können daher viel billiger liefern. Mit den entsprechenden Risiken für die Kunden. Amazon und Co. drücken sich um diese Verpflichtungen, weil sie sagen, sie seien nur Vermittler des Geschäfts (Amazon Marketplace) und nicht der eigentliche Händler, der zur Qualitätssicherung und Zertifizierung verpflichtet wäre.
 
-==== Sonstige Internet-Links ====
+==== iSonstige Internet-Links =====================================================
 
   * [[http://www.arduino.org|www.arduino.org]] Hauptseite für das Arduino Projekt
   * [[https://www.arduino.cc/|www.arduino.cc]] Umfangreiche Arduino Seite
   * [[http://www.instructables.com/howto/arduino/|http://www.instructables.com/howto/arduino/]] Basteln mit dem Arduino
 
-==== Hinweis für Wiki Autoren ====
+==== Hinweis für Wiki Autoren ====================================================
 
 Zur Erweiterung des Wiki oder zur Einrichtung von Links für interessante Begriffe immer das Präfix :projekte:arduino:… voranstellen. Dann werden die Seiten im Wiki richtig einsortiert. Gleiches gilt für zugeordnete Bilder und Dateien im Media Manager.
 
-==== Dateivorlagen rund um das Thema Arduino ====
+==== Dateivorlagen rund um das Thema Arduino =====================================
 
 Die Dateivorlagen sind im Media Manager im Verzeichnis [[https://wiki.fablab-neckar-alb.org/doku.php?id=projekte:arduino&do=media&ns=projekte:arduino:vorlagen|:projekte:arduino:vorlagen]] abgelegt.
 
