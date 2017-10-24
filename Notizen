@@ -78,6 +78,17 @@ To push the current branch and set the remote as upstream, use
 
     git push --set-upstream master master
 
+user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git push --set-upstream fablab-github master
+Counting objects: 26, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (18/18), done.
+Writing objects: 100% (26/26), 3.07 KiB | 0 bytes/s, done.
+Total 26 (delta 9), reused 0 (delta 0)
+remote: Resolving deltas: 100% (9/9), done.
+To git@github.com:tatzelbrumm/git-advanced-test.git
+   162b03d..a8572d5  master -> master
+Branch master set up to track remote branch master from fablab-github.
+
 
 git stash
 git rebase
