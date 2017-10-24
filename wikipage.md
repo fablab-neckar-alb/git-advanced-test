@@ -12,7 +12,7 @@ Aus der privaten Sammlung von Peter Wetzel von Bauteilen rund um den Arduino ist
 
 === Idee ===
 
-Die Idee ist, dass man mal schnell dort ein benötigtes Teil entnimmt und es, falls es nicht passt oder wieder zurücklegen kann. Wird das Teil länger benötigt, so kann es in der Kasse direkt mit barer Münze bezahlt werden oder - das ist der Wunsch - im Internet bestellt werden und später die Box wieder aufgefüllt werden.
+Die Idee ist, auf die Schnelle ein benötigtes Teil entnehmen und dieses, sollte es nicht passen, auch wieder zurücklegen zu können. Wird das Teil länger benötigt, so kann es in der Kasse direkt mit barer Münze bezahlt werden oder - das ist der Wunsch - im Internet bestellt werden und später die Box wieder aufgefüllt werden.
 
 === Philosophie ===
 
