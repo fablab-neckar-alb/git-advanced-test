@@ -14,6 +14,10 @@ Aus der privaten Sammlung von Peter Wetzel von Bauteilen rund um den Arduino ist
 
 Die Idee ist, dass man mal schnell dort ein benötigtes Teil entnimmt und es, falls es nicht passt oder wieder zurücklegen kann. Wird das Teil länger benötigt, so kann es in der Kasse direkt mit barer Münze bezahlt werden oder - das ist der Wunsch - im Internet bestellt werden und später die Box wieder aufgefüllt werden.
 
+=== Philosophie ===
+
+Arbeiten mit dem Arduino soll Spaß und schlau machen.
+
 === Wie kommen neue Teile rein? ===
 
 Da die Bestellung billiger Teile in der Regel in China erfolgt, dauert die Lieferung 4-8 Wochen. Die Teile sind vergleichweise günstig (verglichen mit dem Ärger, Zeit- und Fahraufwand, wenn ein benötigtes Teil nicht da ist). Daher ist hier die Idee, dass jeder einfach bei so einer Bestellung ein, zwei Teile mehr bestellt und diese dann der Arduino-Box hinzufügt.
