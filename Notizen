@@ -1,5 +1,13 @@
 Git für Angefangenen und Fortgesrittenen
 
+git branch neuer-branch
+git checkout neuer-branch 
+beides zusammen
+git checkout -b neuer-branch
+
+commit everything modified already in version control
+git commit -a
+
 git stash
 git rebase
 git flow
