@@ -2,7 +2,7 @@
 
 Unter dem Thema Arduino werden im Wiki alle Ressourcen, Projektbeispiele, Initiativen, etc. gesammelt, die sich mit dem Arduino-Prozessor und den damit möglichen Basteleien und Geräten beschäftigen.
 
-==== Arduino Abend ====
+==== Aarduinoo Abend ====
 
 {{  :projekte:arduinoabendplakat.png?600  }}Wir wollen zum Thema Arduino den Montagabend beleben. Wer es einrichten kann, mit dem Arduino bauen will oder schon etwas dazu tut, kommt am besten Montagabend (so nach 18.30 Uhr) ins Fablab. Wir haben aktuell keine speziellen Workshops oder koordinierte Aktivitäten geplant, aber 'Neuen' wird sicher geholfen, einen Einstieg zu finden und die 'alten Hasen' können ihre Arbeiten mit den anderen besprechen oder philosophieren, was sie alles getan hätten, wenn sie Zeit und Geld gehabt hätten.
 
