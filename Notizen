@@ -89,6 +89,24 @@ To git@github.com:tatzelbrumm/git-advanced-test.git
    162b03d..a8572d5  master -> master
 Branch master set up to track remote branch master from fablab-github.
 
+user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git merge tatzelbranch 
+Merge made by the 'recursive' strategy.
+ Notizen | 44 ++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 44 insertions(+)
+user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git branch
+* master
+  tatzelbranch
+  zweig
+user@host:~/Hackerspaces/FabLabNeckarAlb/git2$ git push
+Counting objects: 8, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (8/8), 2.18 KiB | 0 bytes/s, done.
+Total 8 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), done.
+To git@github.com:tatzelbrumm/git-advanced-test.git
+   a8572d5..df7aafd  master -> master
+
 
 git stash
 git rebase
